@@ -4,7 +4,7 @@ Pada commit pertama ini, saya belajar bagaimana server sederhana mulai menerima 
 
 ## Commit 2 Reflection 
 
-![Commit 2 screen capture](/assets/images/commit2.png)
+![Commit 2 screen capture](/assets/images/commit2)
 
 Pada commit kedua ini, saya belajar bagaimana server tidak hanya menerima request, tetapi juga mulai mengirimkan response yang bisa ditampilkan di browser dalam bentuk halaman HTML. Saya jadi lebih paham bahwa server harus menyusun response dengan format tertentu, termasuk status dan isi halaman, agar browser bisa memprosesnya dengan benar. Selain itu, saya juga menyadari bahwa file HTML yang dibuat bisa langsung dibaca dan dikirim oleh server, sehingga isi halaman bisa diubah sesuai kebutuhan. Dari sini saya mulai melihat bagaimana komunikasi antara server dan browser bekerja secara lebih nyata, bukan hanya sekadar teori.
 
